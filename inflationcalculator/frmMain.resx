@@ -117,16 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Label14.Text" xml:space="preserve">
-    <value>Maecenas id purus quis ex pulvinar tempus vitae eu lectus. Nulla facilisi. Integer eget dapibus justo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum et consectetur justo. Quisque quis turpis auctor, tristique nunc at, elementum eros. Pellentesque viverra maximus consequat. </value>
-  </data>
-  <data name="Label16.Text" xml:space="preserve">
-    <value>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam venenatis dolor a ipsum ornare, ut imperdiet justo pretium. Nam dolor sapien, fermentum vel feugiat nec, laoreet eu dui. Duis ut ultrices leo, sed tincidunt orci. Cras vehicula sollicitudin bibendum. In sodales nibh libero, a tempus neque interdum quis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet accumsan risus, in vehicula justo vestibulum quis. Donec ac nisl lectus. Maecenas ut vestibulum quam. Nullam nisi enim, molestie eget felis eu, interdum aliquet purus. Phasellus luctus, urna nec porttitor egestas,</value>
-  </data>
-  <data name="Label5.Text" xml:space="preserve">
-    <value>Maecenas id purus quis ex pulvinar tempus vitae eu lectus. Nulla facilisi. Integer eget dapibus justo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum et consectetur justo. Quisque quis turpis auctor, tristique nunc at, elementum eros. Pellentesque viverra maximus consequat. </value>
-  </data>
-  <data name="Label4.Text" xml:space="preserve">
-    <value>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam venenatis dolor a ipsum ornare, ut imperdiet justo pretium. Nam dolor sapien, fermentum vel feugiat nec, laoreet eu dui. Duis ut ultrices leo, sed tincidunt orci. Cras vehicula sollicitudin bibendum. In sodales nibh libero, a tempus neque interdum quis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet accumsan risus, in vehicula justo vestibulum quis. Donec ac nisl lectus. Maecenas ut vestibulum quam. Nullam nisi enim, molestie eget felis eu, interdum aliquet purus. Phasellus luctus, urna nec porttitor egestas,</value>
-  </data>
 </root>
